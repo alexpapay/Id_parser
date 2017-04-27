@@ -1,0 +1,12 @@
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Tokens\Proxy.txt
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Tokens\Tokens.txt
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Dic\names_man_rus.dic
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Dic\names_woman_rus.dic
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Vk_Parser_Console.exe.config
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Vk_Parser_Console.exe
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Vk_Parser_Console.pdb
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Newtonsoft.Json.dll
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\bin\Debug\Newtonsoft.Json.xml
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\obj\Debug\Vk_Parser_Console.exe
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\obj\Debug\Vk_Parser_Console.pdb
+D:\_MyC#Projects\VkUserSearchParser\Vk_Parser_Console\obj\Debug\Vk_Parser_Console.csprojResolveAssemblyReference.cache
