@@ -1,5 +1,5 @@
 # Id_parser
-Parser for **.com by different types of parsing
+Data parser from vk.com with different parsing algorithms.
 
 # The following parsing algorithms were designed and tested:
 1. Assembling with sequential search of tokens during blocking (the token works before blocking);
