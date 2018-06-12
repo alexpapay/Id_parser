@@ -7,6 +7,10 @@ Console data parser from vk.com with a different types of parsing. Designed to b
 3. Build with a random date of birth (within the range) and a random token from the list. The most workable way.
 4. Workpiece to work with the execute method from vk.api to work with random tokens and proxy servers.
 
-# Notes
+# Notes:
 There is support for the list of auth tokens  and ipv6 proxy servers.
 In each method, checking tokens to block and exclude a banned token from the list (+ restart the entire list again if the token is diluted if the ban was short-term).
+
+# Technologies: 
+
+C#, .NET, ConsoleApp, Vk API
